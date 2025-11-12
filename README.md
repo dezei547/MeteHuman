@@ -9,7 +9,7 @@
 - Python 3.10
 - Conda（推荐）或 Miniconda
 
-## 请之间下载整合包使用
+## 可下载整合包使用
 
 通过网盘分享的文件：META.exe等2个文件
 链接: https://pan.baidu.com/s/1l56cFJbu9mYaw6G0PYKOGg?pwd=7frt 提取码: 7frt 
